@@ -1,0 +1,6 @@
+2024-05-28 19:54:10 debug: Tudo ocorreu bem!
+2024-05-28 19:54:10 aviso: Cuidado! Está pergiso!
+2024-05-28 19:54:10 erro: Existe um erro aí!
+2024-05-28 19:55:08 debug: Tudo ocorreu bem!
+2024-05-28 19:55:08 aviso: Cuidado! Está pergiso!
+2024-05-28 19:55:08 erro: Existe um erro aí!
